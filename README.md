@@ -1,4 +1,4 @@
-# Exemplo 06
+# Calculadora de IMC usando MVC
 
 Aplicação web com MVC.
 
